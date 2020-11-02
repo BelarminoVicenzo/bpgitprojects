@@ -1,5 +1,4 @@
-{
-        "customer": [
+     [
         {
         "object": "customer",
         "id": "cus_kOV4UNfRBTui",
@@ -41,4 +40,3 @@
         "notificationDisabled": false
         }
     ]
-}
