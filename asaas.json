@@ -18,13 +18,7 @@
         "deleted": false,
         "additionalEmails": "marcelo.almeida+2@gmail.com;marcelo.almeida3@gmail.com",
         "externalReference": "9237487",
-        "notificationDisabled": false,
-        "groups": [
-            {
-                "name": "Padarias"
-            }
-        ]
-
+        "notificationDisabled": false        
         },
         {
         "object": "customer",
